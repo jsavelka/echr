@@ -4,6 +4,7 @@ The ECHR Corpus is a corpus of legal documents for Argument Mining. It consists 
 
 The documents were annotated in the Gloss annotation environment developed at the University of Pittsburgh. Gloss is a lightweight tool focused on semantic annotation of textual documents. Through a small number of individual components it supports the whole annotation process, including corpus assembly, type system definition, document annotation, as well as quality control. The system is equipped with simple identity and role management that facilitates basic security as well as the ability of multiple users performing various roles within a project.
 
+You can download the dataset [here](https://github.com/jsavelka/echr/blob/main/echr-corpus.zip).
 ___
 
 ## To cite ECHR Corpus paper
