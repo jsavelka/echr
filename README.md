@@ -1,5 +1,7 @@
 # ECHR Corpus
 
+> The original landing side for this corpus is at [http://www.di.uevora.pt/~pq/echr/](http://www.di.uevora.pt/~pq/echr/). This repository contains an exact copy since it seems the original website is often being blocked or inaccessible.
+
 The ECHR Corpus is a corpus of legal documents for Argument Mining. It consists of 42 human-annotated judgements of European Court of Human Rights (ECHR). The corpus is annotated in terms of three types of argument constituents relevant in argument mining: premise, conclusion, and non-argument parts of the text. Overall, there are 1951 premises and 743 conclusions. Note that some argument constituents could be premises/conclusions for more than one argument, and some constituents are both premises of one argument and conclusion for another one.
 
 The documents were annotated in the Gloss annotation environment developed at the University of Pittsburgh. Gloss is a lightweight tool focused on semantic annotation of textual documents. Through a small number of individual components it supports the whole annotation process, including corpus assembly, type system definition, document annotation, as well as quality control. The system is equipped with simple identity and role management that facilitates basic security as well as the ability of multiple users performing various roles within a project.
