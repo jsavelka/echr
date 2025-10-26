@@ -1,6 +1,6 @@
 # ECHR Corpus
 
-> The original landing site for this corpus is at [http://www.di.uevora.pt/~pq/echr/](http://www.di.uevora.pt/~pq/echr/). This repository contains an exact copy since it seems the original website is often being blocked or inaccessible.
+> The original landing site for this corpus is at [www.di.uevora.pt/~pq/echr](http://www.di.uevora.pt/~pq/echr/). This repository contains an exact copy since sometimes there seem to be difficulty accessing the original website.
 
 The ECHR Corpus is a corpus of legal documents for Argument Mining. It consists of 42 human-annotated judgements of European Court of Human Rights (ECHR). The corpus is annotated in terms of three types of argument constituents relevant in argument mining: premise, conclusion, and non-argument parts of the text. Overall, there are 1951 premises and 743 conclusions. Note that some argument constituents could be premises/conclusions for more than one argument, and some constituents are both premises of one argument and conclusion for another one.
 
@@ -35,4 +35,4 @@ ___
 
 ___
 
-Connect with us at prakashpoudyal@gmail.com
+Connect with us at prakash@ku.edu.np or jsavelka@cs.cmu.edu
